@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/mahasiswa/Documents/FootBallPlayer-App-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6d72d741da8c9fe2c1852f7adf079f49f8279d09">
+        <dex dex="/home/mahasiswa/Documents/FootBallPlayer-App-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_eec20bbf01809f6f0ef6e6f214e24d9e3818d903/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mahasiswa/.android/build-cache/032e9e98f2b1b1fee9c270bed7724e02d5f32049/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/home/mahasiswa/Documents/FootBallPlayer-App-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_88cd996ed1ea951d16010b1b6a402ec3e04aad94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mahasiswa/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/gifdecoder/4.3.1/dc06b7679496073ef4505005b4c5995f522503cd/gifdecoder-4.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dc06b7679496073ef4505005b4c5995f522503cd">
+        <dex dex="/home/mahasiswa/Documents/FootBallPlayer-App-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/gifdecoder-4.3.1_1daafcb696a567820f2bd232dea1ea46aa217ee1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mahasiswa/.android/build-cache/f5336a6651a30fb9440c9d3d2fa7f51649b1ec8a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/mahasiswa/Documents/FootBallPlayer-App-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f7c89162c70fe8150c86f9eff8fdeb2b9571318b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mahasiswa/.android/build-cache/efe8f8452d0e4da80383ede1d64b2247ce314111/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/home/mahasiswa/Documents/FootBallPlayer-App-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e13fe79af84b7402a7d3c9e6ff661fe1f129598b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mahasiswa/.android/build-cache/4b7d1a2f3cd77710ec5454874f7df49ce8e04a00/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/mahasiswa/Documents/FootBallPlayer-App-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c9ff58937ae6f6f2d25df3cc4af512896c8f5cfa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mahasiswa/.android/build-cache/5a1da1f95eea0e99d15e419f7e4f29649cc323f5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/home/mahasiswa/Documents/FootBallPlayer-App-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_83dd141b7b8178d754933c8f0ab340dc05c98e88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mahasiswa/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.3.1/9eaeaefa25c6ff18d7008f06208d41a261d8b29b/disklrucache-4.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9eaeaefa25c6ff18d7008f06208d41a261d8b29b">
+        <dex dex="/home/mahasiswa/Documents/FootBallPlayer-App-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/disklrucache-4.3.1_7fedd9dda6a6112f6edeebee044a6f7ea5bbf6e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mahasiswa/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.0.2/b9cd8fc6bd15cb915735d34535db30ece0c44603/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/mahasiswa/Documents/FootBallPlayer-App-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_19f72039d33a3244d8778a8f69a995fcb117b1f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mahasiswa/.android/build-cache/a681282768f565c5a94c8e416947ffbd7b33b2f6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9bdfc3e83c6bc1f8bc5807cdaf7e94ac884a2a0d">
+        <dex dex="/home/mahasiswa/Documents/FootBallPlayer-App-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6aad4a934f8cc28e1eb06319637c26337252c6cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mahasiswa/Documents/FootBallPlayer-App-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/mahasiswa/Documents/FootBallPlayer-App-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2e50f47aaecf6866b750176273231e58f55fdbe1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mahasiswa/.android/build-cache/7069366f1f1f3852b9a9c159d86c2c238f164159/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/home/mahasiswa/Documents/FootBallPlayer-App-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0e632b3c61fe948665c5f8e9811d6329d95bad4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mahasiswa/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/mahasiswa/Documents/FootBallPlayer-App-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_b91cff65fd813d199feb89b30618134b90376ca5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mahasiswa/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.3.1/9afb77c8712b19e421caecefe8e85e98ab327ce7/glide-4.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9afb77c8712b19e421caecefe8e85e98ab327ce7">
+        <dex dex="/home/mahasiswa/Documents/FootBallPlayer-App-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-4.3.1_57638485e3d32778fc5fe784777d4af11afbb2f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mahasiswa/.android/build-cache/a4005635c38c52db6cbcd96c40e5e0dde3dc5248/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/home/mahasiswa/Documents/FootBallPlayer-App-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4fa2009fb93e4c4d29daae7a1678f7fd6e56cc3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mahasiswa/.android/build-cache/b8ab134763ef9fc3bff083174dbbca242c8186be/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/home/mahasiswa/Documents/FootBallPlayer-App-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a9faa545c01eb13550c6c4f654785c8c0e958178/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mahasiswa/.android/build-cache/ea79f54e9d0c4159f26013b0c3e2a29c97f8b79b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/home/mahasiswa/Documents/FootBallPlayer-App-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2a0ec05416f650f581cd39d4fc27569f924a75d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mahasiswa/.android/build-cache/8b67ecfccf1799fb8273863769d82988a68ac340/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/home/mahasiswa/Documents/FootBallPlayer-App-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2e198f1cd1d77831972efdd5cc3c0ea27e74085f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mahasiswa/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.3.1/a786169ed0f768a589503844726f2380bb2139c/annotations-4.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0a786169ed0f768a589503844726f2380bb2139c">
+        <dex dex="/home/mahasiswa/Documents/FootBallPlayer-App-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/annotations-4.3.1_14806fafec135d0a99464ccba82540a78c5e4703/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mahasiswa/.android/build-cache/ecfbb7215469bad5f3d1f127d72d427ac723412d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/home/mahasiswa/Documents/FootBallPlayer-App-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f72eeb649397b83e6d2876b51255218881904873/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mahasiswa/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/home/mahasiswa/Documents/FootBallPlayer-App-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_1d9c4c6ecfeb66ff4293dffd1bc7fd0bbcb93e60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mahasiswa/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/home/mahasiswa/Documents/FootBallPlayer-App-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_3e846a841b7967ee44e0cf5216bf67fec727f74c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mahasiswa/.android/build-cache/378a9a53511c4bd22e2038c65e8e2fc8bcd4a59a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/home/mahasiswa/Documents/FootBallPlayer-App-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b74123531448f7766c75023fb72a59a91adec7c/classes.dex" />
+    </item>
+
+</items>

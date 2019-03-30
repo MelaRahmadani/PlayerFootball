@@ -1,0 +1,402 @@
+[
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\ecfbb7215469bad5f3d1f127d72d427ac723412d\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\7069366f1f1f3852b9a9c159d86c2c238f164159\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\7069366f1f1f3852b9a9c159d86c2c238f164159\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\7069366f1f1f3852b9a9c159d86c2c238f164159\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\7069366f1f1f3852b9a9c159d86c2c238f164159\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\dcf12ec99df4aafd87cdea3e0702cbb5c9fc4a79\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tooltip.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\7069366f1f1f3852b9a9c159d86c2c238f164159\\output\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\7069366f1f1f3852b9a9c159d86c2c238f164159\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\7069366f1f1f3852b9a9c159d86c2c238f164159\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\7069366f1f1f3852b9a9c159d86c2c238f164159\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\ecfbb7215469bad5f3d1f127d72d427ac723412d\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\ecfbb7215469bad5f3d1f127d72d427ac723412d\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail_player.xml",
+        "source": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\src\\main\\res\\layout\\activity_detail_player.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\ecfbb7215469bad5f3d1f127d72d427ac723412d\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6882c8fa759fcd5072ad27131e269e1ec4df7d09\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6162bed342bf510a70a721400cfd4612d9431c79\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6882c8fa759fcd5072ad27131e269e1ec4df7d09\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6162bed342bf510a70a721400cfd4612d9431c79\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6162bed342bf510a70a721400cfd4612d9431c79\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6882c8fa759fcd5072ad27131e269e1ec4df7d09\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\dcf12ec99df4aafd87cdea3e0702cbb5c9fc4a79\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\7069366f1f1f3852b9a9c159d86c2c238f164159\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\7069366f1f1f3852b9a9c159d86c2c238f164159\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\7069366f1f1f3852b9a9c159d86c2c238f164159\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6162bed342bf510a70a721400cfd4612d9431c79\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\7069366f1f1f3852b9a9c159d86c2c238f164159\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6882c8fa759fcd5072ad27131e269e1ec4df7d09\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6882c8fa759fcd5072ad27131e269e1ec4df7d09\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\378a9a53511c4bd22e2038c65e8e2fc8bcd4a59a\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6882c8fa759fcd5072ad27131e269e1ec4df7d09\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6882c8fa759fcd5072ad27131e269e1ec4df7d09\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\7069366f1f1f3852b9a9c159d86c2c238f164159\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\7069366f1f1f3852b9a9c159d86c2c238f164159\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6882c8fa759fcd5072ad27131e269e1ec4df7d09\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6162bed342bf510a70a721400cfd4612d9431c79\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\7069366f1f1f3852b9a9c159d86c2c238f164159\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\7069366f1f1f3852b9a9c159d86c2c238f164159\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\7069366f1f1f3852b9a9c159d86c2c238f164159\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6882c8fa759fcd5072ad27131e269e1ec4df7d09\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6882c8fa759fcd5072ad27131e269e1ec4df7d09\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6162bed342bf510a70a721400cfd4612d9431c79\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\7069366f1f1f3852b9a9c159d86c2c238f164159\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6882c8fa759fcd5072ad27131e269e1ec4df7d09\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6882c8fa759fcd5072ad27131e269e1ec4df7d09\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6882c8fa759fcd5072ad27131e269e1ec4df7d09\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\7069366f1f1f3852b9a9c159d86c2c238f164159\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\ecfbb7215469bad5f3d1f127d72d427ac723412d\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\ecfbb7215469bad5f3d1f127d72d427ac723412d\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\7069366f1f1f3852b9a9c159d86c2c238f164159\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6882c8fa759fcd5072ad27131e269e1ec4df7d09\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6882c8fa759fcd5072ad27131e269e1ec4df7d09\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6882c8fa759fcd5072ad27131e269e1ec4df7d09\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\7069366f1f1f3852b9a9c159d86c2c238f164159\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail_player.xml",
+        "source": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\src\\main\\res\\layout\\activity_detail_player.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\7069366f1f1f3852b9a9c159d86c2c238f164159\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\7069366f1f1f3852b9a9c159d86c2c238f164159\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\ecfbb7215469bad5f3d1f127d72d427ac723412d\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\dcf12ec99df4aafd87cdea3e0702cbb5c9fc4a79\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6882c8fa759fcd5072ad27131e269e1ec4df7d09\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\7069366f1f1f3852b9a9c159d86c2c238f164159\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6882c8fa759fcd5072ad27131e269e1ec4df7d09\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\7069366f1f1f3852b9a9c159d86c2c238f164159\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6882c8fa759fcd5072ad27131e269e1ec4df7d09\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6882c8fa759fcd5072ad27131e269e1ec4df7d09\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\7069366f1f1f3852b9a9c159d86c2c238f164159\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6882c8fa759fcd5072ad27131e269e1ec4df7d09\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\dcf12ec99df4aafd87cdea3e0702cbb5c9fc4a79\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\dcf12ec99df4aafd87cdea3e0702cbb5c9fc4a79\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\ecfbb7215469bad5f3d1f127d72d427ac723412d\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6882c8fa759fcd5072ad27131e269e1ec4df7d09\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6162bed342bf510a70a721400cfd4612d9431c79\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6882c8fa759fcd5072ad27131e269e1ec4df7d09\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6882c8fa759fcd5072ad27131e269e1ec4df7d09\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\378a9a53511c4bd22e2038c65e8e2fc8bcd4a59a\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6162bed342bf510a70a721400cfd4612d9431c79\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\7069366f1f1f3852b9a9c159d86c2c238f164159\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6882c8fa759fcd5072ad27131e269e1ec4df7d09\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\dcf12ec99df4aafd87cdea3e0702cbb5c9fc4a79\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\7069366f1f1f3852b9a9c159d86c2c238f164159\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\378a9a53511c4bd22e2038c65e8e2fc8bcd4a59a\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\7069366f1f1f3852b9a9c159d86c2c238f164159\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6882c8fa759fcd5072ad27131e269e1ec4df7d09\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6882c8fa759fcd5072ad27131e269e1ec4df7d09\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6882c8fa759fcd5072ad27131e269e1ec4df7d09\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6882c8fa759fcd5072ad27131e269e1ec4df7d09\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\7069366f1f1f3852b9a9c159d86c2c238f164159\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\378a9a53511c4bd22e2038c65e8e2fc8bcd4a59a\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6882c8fa759fcd5072ad27131e269e1ec4df7d09\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\7069366f1f1f3852b9a9c159d86c2c238f164159\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\378a9a53511c4bd22e2038c65e8e2fc8bcd4a59a\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6882c8fa759fcd5072ad27131e269e1ec4df7d09\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\7069366f1f1f3852b9a9c159d86c2c238f164159\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\ecfbb7215469bad5f3d1f127d72d427ac723412d\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6162bed342bf510a70a721400cfd4612d9431c79\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\home\\mahasiswa\\Documents\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\home\\mahasiswa\\.android\\build-cache\\378a9a53511c4bd22e2038c65e8e2fc8bcd4a59a\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Mela\\Kuliah\\Semester6\\Mobile\\MELA\\FootBallPlayer-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tooltip.xml",
+        "source": "C:\\Users\\_Windows 10_\\.android\\build-cache\\6882c8fa759fcd5072ad27131e269e1ec4df7d09\\output\\res\\layout\\tooltip.xml"
+    }
+]

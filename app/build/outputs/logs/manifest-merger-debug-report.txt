@@ -1,0 +1,108 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Mela\Kuliah\Semester6\Mobile\MELA\FootBallPlayer-App-master\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from D:\Mela\Kuliah\Semester6\Mobile\MELA\FootBallPlayer-App-master\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from D:\Mela\Kuliah\Semester6\Mobile\MELA\FootBallPlayer-App-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Mela\Kuliah\Semester6\Mobile\MELA\FootBallPlayer-App-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Mela\Kuliah\Semester6\Mobile\MELA\FootBallPlayer-App-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Mela\Kuliah\Semester6\Mobile\MELA\FootBallPlayer-App-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Mela\Kuliah\Semester6\Mobile\MELA\FootBallPlayer-App-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\Mela\Kuliah\Semester6\Mobile\MELA\FootBallPlayer-App-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Mela\Kuliah\Semester6\Mobile\MELA\FootBallPlayer-App-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\Mela\Kuliah\Semester6\Mobile\MELA\FootBallPlayer-App-master\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\Mela\Kuliah\Semester6\Mobile\MELA\FootBallPlayer-App-master\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from D:\Mela\Kuliah\Semester6\Mobile\MELA\FootBallPlayer-App-master\app\src\main\AndroidManifest.xml:7:5-22:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\_Windows 10_\.android\build-cache\6882c8fa759fcd5072ad27131e269e1ec4df7d09\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\_Windows 10_\.android\build-cache\351a687198ff42db8ee07e9f8ca4171a0e68d1c0\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\_Windows 10_\.android\build-cache\6162bed342bf510a70a721400cfd4612d9431c79\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\_Windows 10_\.android\build-cache\e23d9e4ae7b88a2ddb28699b798e0a53863b9326\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\_Windows 10_\.android\build-cache\7e7a0898113b0e952d3d59f51a2f6106c40a08fc\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\_Windows 10_\.android\build-cache\751b475c96340fa98e523b9cd536e366683c1ff1\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\_Windows 10_\.android\build-cache\eff49c373007fb2eb34b36249ddc4642534e35ff\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\_Windows 10_\.android\build-cache\13cb84641055a144db45376f41e0f1475b6871d2\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\_Windows 10_\.android\build-cache\d08c2d0ccefe613047d680a4530ec3f238592a8d\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\_Windows 10_\.android\build-cache\e1c556f77fac9cc24078a9ce5ed3186569102dbc\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\_Windows 10_\.android\build-cache\dcf12ec99df4aafd87cdea3e0702cbb5c9fc4a79\output\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\_Windows 10_\.android\build-cache\4d3f8adca61bc71b6e2e0ae9d8a878eff3112fe6\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\_Windows 10_\.android\build-cache\494660240c6167deec5c316d14417e24678eecfa\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\Mela\Kuliah\Semester6\Mobile\MELA\FootBallPlayer-App-master\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from D:\Mela\Kuliah\Semester6\Mobile\MELA\FootBallPlayer-App-master\app\src\main\AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from D:\Mela\Kuliah\Semester6\Mobile\MELA\FootBallPlayer-App-master\app\src\main\AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from D:\Mela\Kuliah\Semester6\Mobile\MELA\FootBallPlayer-App-master\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from D:\Mela\Kuliah\Semester6\Mobile\MELA\FootBallPlayer-App-master\app\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from D:\Mela\Kuliah\Semester6\Mobile\MELA\FootBallPlayer-App-master\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.azhar.footballplayer.MainActivity
+ADDED from D:\Mela\Kuliah\Semester6\Mobile\MELA\FootBallPlayer-App-master\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from D:\Mela\Kuliah\Semester6\Mobile\MELA\FootBallPlayer-App-master\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Mela\Kuliah\Semester6\Mobile\MELA\FootBallPlayer-App-master\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from D:\Mela\Kuliah\Semester6\Mobile\MELA\FootBallPlayer-App-master\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from D:\Mela\Kuliah\Semester6\Mobile\MELA\FootBallPlayer-App-master\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Mela\Kuliah\Semester6\Mobile\MELA\FootBallPlayer-App-master\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from D:\Mela\Kuliah\Semester6\Mobile\MELA\FootBallPlayer-App-master\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.azhar.footballplayer.DetailPlayerActivity
+ADDED from D:\Mela\Kuliah\Semester6\Mobile\MELA\FootBallPlayer-App-master\app\src\main\AndroidManifest.xml:21:9-67
+	android:name
+		ADDED from D:\Mela\Kuliah\Semester6\Mobile\MELA\FootBallPlayer-App-master\app\src\main\AndroidManifest.xml:21:19-55
+uses-sdk
+INJECTED from D:\Mela\Kuliah\Semester6\Mobile\MELA\FootBallPlayer-App-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\_Windows 10_\.android\build-cache\6882c8fa759fcd5072ad27131e269e1ec4df7d09\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\_Windows 10_\.android\build-cache\351a687198ff42db8ee07e9f8ca4171a0e68d1c0\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\_Windows 10_\.android\build-cache\6162bed342bf510a70a721400cfd4612d9431c79\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\_Windows 10_\.android\build-cache\e23d9e4ae7b88a2ddb28699b798e0a53863b9326\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\_Windows 10_\.android\build-cache\7e7a0898113b0e952d3d59f51a2f6106c40a08fc\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\_Windows 10_\.android\build-cache\751b475c96340fa98e523b9cd536e366683c1ff1\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\_Windows 10_\.android\build-cache\eff49c373007fb2eb34b36249ddc4642534e35ff\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\_Windows 10_\.android\build-cache\13cb84641055a144db45376f41e0f1475b6871d2\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\_Windows 10_\.android\build-cache\d08c2d0ccefe613047d680a4530ec3f238592a8d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\_Windows 10_\.android\build-cache\e1c556f77fac9cc24078a9ce5ed3186569102dbc\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\_Windows 10_\.android\build-cache\dcf12ec99df4aafd87cdea3e0702cbb5c9fc4a79\output\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\_Windows 10_\.android\build-cache\4d3f8adca61bc71b6e2e0ae9d8a878eff3112fe6\output\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\_Windows 10_\.android\build-cache\494660240c6167deec5c316d14417e24678eecfa\output\AndroidManifest.xml:7:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\_Windows 10_\.android\build-cache\6882c8fa759fcd5072ad27131e269e1ec4df7d09\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Mela\Kuliah\Semester6\Mobile\MELA\FootBallPlayer-App-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Mela\Kuliah\Semester6\Mobile\MELA\FootBallPlayer-App-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Mela\Kuliah\Semester6\Mobile\MELA\FootBallPlayer-App-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Mela\Kuliah\Semester6\Mobile\MELA\FootBallPlayer-App-master\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\_Windows 10_\.android\build-cache\6882c8fa759fcd5072ad27131e269e1ec4df7d09\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\_Windows 10_\.android\build-cache\351a687198ff42db8ee07e9f8ca4171a0e68d1c0\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\_Windows 10_\.android\build-cache\6162bed342bf510a70a721400cfd4612d9431c79\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\_Windows 10_\.android\build-cache\e23d9e4ae7b88a2ddb28699b798e0a53863b9326\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\_Windows 10_\.android\build-cache\7e7a0898113b0e952d3d59f51a2f6106c40a08fc\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\_Windows 10_\.android\build-cache\751b475c96340fa98e523b9cd536e366683c1ff1\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\_Windows 10_\.android\build-cache\eff49c373007fb2eb34b36249ddc4642534e35ff\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\_Windows 10_\.android\build-cache\d08c2d0ccefe613047d680a4530ec3f238592a8d\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\_Windows 10_\.android\build-cache\e1c556f77fac9cc24078a9ce5ed3186569102dbc\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\_Windows 10_\.android\build-cache\dcf12ec99df4aafd87cdea3e0702cbb5c9fc4a79\output\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\_Windows 10_\.android\build-cache\6882c8fa759fcd5072ad27131e269e1ec4df7d09\output\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\_Windows 10_\.android\build-cache\6882c8fa759fcd5072ad27131e269e1ec4df7d09\output\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\_Windows 10_\.android\build-cache\4d3f8adca61bc71b6e2e0ae9d8a878eff3112fe6\output\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\_Windows 10_\.android\build-cache\4d3f8adca61bc71b6e2e0ae9d8a878eff3112fe6\output\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\_Windows 10_\.android\build-cache\4d3f8adca61bc71b6e2e0ae9d8a878eff3112fe6\output\AndroidManifest.xml:26:13-58

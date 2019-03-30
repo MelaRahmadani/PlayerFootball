@@ -1,0 +1,7 @@
+#Fri Mar 29 10:09:54 WIB 2019
+base.0=/home/mahasiswa/Documents/FootBallPlayer-App-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2e50f47aaecf6866b750176273231e58f55fdbe1
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/mahasiswa/Documents/FootBallPlayer-App-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_eec20bbf01809f6f0ef6e6f214e24d9e3818d903/classes.dex
+base.1=/home/mahasiswa/Documents/FootBallPlayer-App-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_eec20bbf01809f6f0ef6e6f214e24d9e3818d903
+file.0=/home/mahasiswa/Documents/FootBallPlayer-App-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2e50f47aaecf6866b750176273231e58f55fdbe1/classes.dex
